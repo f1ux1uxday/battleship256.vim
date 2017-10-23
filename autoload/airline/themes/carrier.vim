@@ -47,7 +47,7 @@ let g:airline#themes#carrier#palette.tabline = {
       \ 'airline_tabsel':   ['#e1e1e1' , '#007599' , 188 , 124  , '' ],
       \ 'airline_tabtype':  ['#414141' , '#e1e1e1' , 59  , 188 , '' ],
       \ 'airline_tabfill':  ['#414141' , '#e1e1e1' , 59  , 188 , '' ],
-      \ 'airline_tabmod':   ['#e1e1e1' , '#007599' , 188 , 30  , '' ],
+      \ 'airline_tabmod':   ['#e1e1e1' , '#007599' , 188 , 67  , '' ],
       \ }
 
 let s:WI = [ '#ff0000', '#e1e1e1', 196, 188 ]

@@ -6,3 +6,5 @@ Includes carrier.vim, a theme for airline. A fork of silver.vim from vim-airline
 
 
 ![sample](https://imgur.com/a/244HD)
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/244HD"><a href="//imgur.com/244HD"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>

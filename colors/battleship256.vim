@@ -12,7 +12,7 @@ endif
 let g:colors_name = 'battleship256'
 
 " Highlight Groups
-hi Normal ctermfg=white ctermbg=249 cterm=NONE term=NONE
+hi Normal ctermfg=black ctermbg=249 cterm=NONE term=NONE
 hi Cursor  ctermfg=167 ctermbg=232 cterm=NONE term=NONE
 hi CursorLine ctermfg=252 ctermbg=249 cterm=NONE term=NONE
 hi CursorLineNr ctermfg=252 ctermbg=235  cterm=bold term=bold
@@ -35,7 +35,7 @@ hi Boolean ctermfg=146 ctermbg=249 cterm=NONE
 hi Tag ctermfg=7 ctermbg=249 cterm=NONE
 hi Number ctermfg=131 ctermbg=249 cterm=NONE
 hi SignColumn ctermbg=249
-hi Comment ctermfg=232 ctermbg=249 cterm=bold term=NONE
+hi Comment ctermfg=white ctermbg=249 cterm=bold term=NONE
 hi Constant ctermfg=124 ctermbg=249 cterm=NONE term=NONE
 hi Type ctermfg=189 ctermbg=249 cterm=bold term=bold
 hi Function ctermfg=160 ctermbg=249 cterm=bold term=NONE
